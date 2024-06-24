@@ -34,7 +34,7 @@ The dataset (`data.csv`) includes:
 
 # Bakery Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](./path-to-your-image.png)
+![Sales Analysis Dashboard](https://github.com/suraj5424/Bakery-Sales-Analysis-Dashboard-and-Prediction/blob/main/sales%20ananalsis%20dashboard.png)
 
 This repository contains the Power BI dashboard for analyzing bakery sales data from two stores over the span of a year. The dashboard provides detailed insights into sales performance, waste management, and prediction accuracy, helping to optimize operations and reduce losses.
 
